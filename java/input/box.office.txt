@@ -1,0 +1,1000 @@
+2782275172	4273140	Avatar (2009 film)
+2185372302	52371	Titanic (1997 film)
+1511757910	22114132	The Avengers (2012 film)
+1328111219	31941988	Harry Potter and the Deathly Hallows – Part 2
+1123746996	25001260	Transformers: Dark of the Moon
+1119929521	174251	The Lord of the Rings: The Return of the King
+1078008948	29075630	The Dark Knight Rises
+1063171911	1213838	Toy Story 3
+1043871802	24314116	Pirates of the Caribbean: On Stranger Tides
+1027044677	50793	Star Wars Episode I: The Phantom Menace
+1024299904	14482638	Alice in Wonderland (2010 film)
+1004558444	4276475	The Dark Knight (film)
+974755371	667361	Harry Potter and the Philosopher's Stone (film)
+963420425	1689394	Pirates of the Caribbean: At World's End
+956399711	9834441	Harry Potter and the Deathly Hallows – Part 1
+951583777	88678	The Lion King
+939885929	670407	Harry Potter and the Order of the Phoenix (film)
+934416487	858575	Harry Potter and the Half-Blood Prince (film)
+926047111	173944	The Lord of the Rings: The Two Towers
+921111197	239587	Finding Nemo
+919838758	525314	Shrek 2
+914691118	68485	Jurassic Park (film)
+896911078	667372	Harry Potter and the Goblet of Fire (film)
+890871626	702117	Spider-Man 3
+886686817	12260598	Ice Age: Dawn of the Dinosaurs
+878979634	667368	Harry Potter and the Chamber of Secrets (film)
+871530324	173941	The Lord of the Rings: The Fellowship of the Ring
+867291788	29609480	Ice Age: Continental Drift
+848754768	55447	Star Wars Episode III: Revenge of the Sith
+836303693	12319832	Transformers: Revenge of the Fallen
+825532764	23270459	Inception
+821708551	146947	Spider-Man (film)
+817400891	52389	Independence Day (film)
+798958162	903383	Shrek the Third
+796688549	667371	Harry Potter and the Prisoner of Azkaban (film)
+792910554	73441	E.T. the Extra-Terrestrial
+786636033	1252914	Indiana Jones and the Kingdom of the Crystal Skull
+783766341	612052	Spider-Man 2
+775398007	52549	Star Wars Episode IV: A New Hope
+769679473	18436536	2012 (film)
+758239851	1908238	The Da Vinci Code (film)
+752600867	27193568	Shrek Forever After
+752216557	25862453	The Amazing Spider-Man (2012 film)
+742128461	123417	The Matrix Reloaded
+731342744	11659396	Up (2009 film)
+716891482	21153376	Madagascar 3: Europe's Most Wanted
+709827462	20672258	The Twilight Saga: New Moon
+709709780	2236472	Transformers (film)
+705058657	26581256	The Twilight Saga: Breaking Dawn – Part 1
+698491347	21678052	The Twilight Saga: Eclipse
+694713380	17298593	Mission: Impossible – Ghost Protocol
+686533290	31186339	The Hunger Games (film)
+677387716	41528	Forrest Gump
+672806292	30582	The Sixth Sense
+665692281	23217064	Kung Fu Panda 2
+655388158	2303174	Ice Age: The Meltdown
+654264015	321496	Pirates of the Caribbean: The Curse of the Black Pearl
+649398328	50957	Star Wars Episode II: Attack of the Clones
+631744560	3248340	Kung Fu Panda
+631442092	565879	The Incredibles
+626100000	28085067	Fast Five
+624386746	20926377	Hancock (film)
+624026776	13049327	Men in Black 3
+623933331	22144721	Iron Man 2
+623722818	14941280	Ratatouille (film)
+618638999	666923	The Lost World: Jurassic Park
+611899420	195246	The Passion of the Christ
+609841637	8425661	Mamma Mia! (film)
+602308178	3858746	Madagascar: Escape 2 Africa
+596400000	930379	Casino Royale (2006 film)
+591745550	535335	War of the Worlds (2005 film)
+591700000	2969247	Quantum of Solace
+590721936	619728	Tangled
+589390539	167599	Men in Black (film)
+585349010	6641931	I Am Legend (film)
+585174222	5676692	Iron Man (film)
+581464305	23295795	The Hangover Part II
+574480841	4167411	Night at the Museum
+563749323	2675554	The Smurfs (film)
+559852396	16839388	Cars 2
+554709226	28042876	Puss in Boots (2011 film)
+553709788	52390	Armageddon (1998 film)
+552526052	26271368	Step Up (film series)
+550500000	473086	King Kong (2005 film)
+546388200	451866	Mission: Impossible II
+544272402	407178	The Day After Tomorrow
+543848418	25793288	Sherlock Holmes: A Game of Shadows
+543113985	23614710	Despicable Me
+538375067	53964	Star Wars Episode V: The Empire Strikes Back
+532680671	17901688	Madagascar (2005 film)
+531957538	16839300	Brave (2012 film)
+527071022	1424178	The Simpsons Movie
+526366597	197558	Monsters, Inc.
+524028679	19596597	Sherlock Holmes (2009 film)
+521311860	8980330	WALL-E
+519843345	34344124	Terminator 2: Judgment Day
+516642939	962010	Meet the Fockers
+505702588	129619	Ghost (1990 film)
+504050219	73170	Aladdin (1992 Disney film)
+497409852	323715	Troy (film)
+494878759	18394730	How to Train Your Dragon (film)
+494471524	303933	Twister (1996 film)
+493214993	22358819	Clash of the Titans (2010 film)
+488965740	31201599	Ted (film)
+485930816	5794648	Angels & Demons (film)
+485015179	335298	Toy Story 2
+484635760	25595854	Rio (film)
+484592874	237303	Bruce Almighty
+484409218	18717177	Shrek
+481840909	28269	Saving Private Ryan
+481800873	27279709	Rise of the Planet of the Apes
+478336279	1745050	Mr. & Mrs. Smith (2005 film)
+476684675	216072	Home Alone
+475106177	50744	Star Wars Episode VI: Return of the Jedi
+474968763	1277918	Charlie and the Chocolate Factory (film)
+474171806	51888	Indiana Jones and the Last Crusade
+470653000	74830	Jaws (film)
+467483912	21918632	The Hangover
+463517383	30007	The Matrix
+463407268	156745	Pretty Woman
+461983149	920613	Cars (film)
+459359555	2029825	X-Men: The Last Stand
+457696359	724258	Mission: Impossible (film)
+457640427	3616797	Gladiator (2000 film)
+457364600	3710785	National Treasure: Book of Secrets
+456758981	228274	The Last Samurai
+450717150	2251266	Ocean's Eleven (2001 film)
+449300000	12673434	Thor (film)
+449220945	99304	Pearl Harbor (film)
+448191819	1749093	Tarzan (1999 film)
+443140005	22937227	Alvin and the Chipmunks: The Squeakquel
+442824138	1854000	The Bourne Ultimatum (film)
+441818803	673599	Men in Black II
+441286195	348737	Mrs. Doubtfire
+441071011	725459	The Exorcist (film)
+433371112	225615	Terminator 3: Rise of the Machines
+433013274	957359	The Mummy Returns
+431900000	156644	Die Another Day
+429632142	44501	Cast Away
+427343298	210998	The Matrix Revolutions
+424967620	133462	Beauty and the Beast (1991 film)
+424208848	129585	Dances with Wolves
+416000000	76361	Snow White and the Seven Dwarfs (1937 film)
+415933406	253828	The Mummy (1999 film)
+415253641	13239722	Sex and the City (film)
+415004880	210224	Love with the Proper Stranger
+413106170	18764957	Night at the Museum: Battle of the Smithsonian
+411348924	4726	Batman (1989 film)
+410945720	412476	The Bodyguard (1992 film)
+408247917	72453	Signs (film)
+407711549	288303	X2 (film)
+402480000	31775043	Prometheus (film)
+401128639	957331	The Mummy: Tomb of the Dragon Emperor
+400062763	22547607	Tron: Legacy
+400000000	2804704	Gone with the Wind (film)
+397850012	2021700	Mission: Impossible III
+396397203	36019569	Snow White and the Huntsman
+394589888	336846	Grease (film)
+392616625	14277334	Twilight (2008 film)
+391081192	1082656	Superman Returns
+390493908	261402	Robin Hood: Prince of Thieves
+389925971	54166	Raiders of the Lost Ark
+385494555	3071743	Star Trek (film)
+384335608	1499348	Happy Feet
+383874862	42993	Back to the Future
+383531464	1752246	Live Free or Die Hard
+383257136	34044456	Ice Age (film)
+381509870	10812453	Monsters vs. Aliens
+379014294	1190931	Godzilla (1998 film)
+378882411	68374	True Lies
+377910544	15233369	Slumdog Millionaire
+374111707	106262	What Women Want
+373993951	11400848	The Adventures of Tintin (film)
+373062864	2982688	X-Men Origins: Wolverine
+372710015	481605	Batman Begins
+372234864	1355085	The Golden Compass (film)
+371353001	13670373	Terminator Salvation
+369884651	277149	There's Something About Mary
+368875760	1822067	The Fugitive (1993 film)
+368780809	473273	Jurassic Park III
+368744044	431333	My Big Fat Greek Wedding
+368608363	26999426	Captain America: The First Avenger
+368100420	1524596	Hitch (film)
+367275019	334874	Shark Tale
+366101666	357473	Die Hard with a Vengeance
+363889700	204019	Notting Hill (film)
+363398565	460442	A Bug's Life
+363164265	15656621	Fast & Furious
+362744280	1046470	Ocean's Twelve
+362211740	20181491	Planet of the Apes (2001 film)
+361958736	53085	Toy Story
+361700000	166121	The World Is Not Enough
+361336633	11244593	Alvin and the Chipmunks (film)
+359126022	23524192	The Karate Kid (2010 film)
+358994850	294998	Home Alone 2: Lost in New York
+358372926	142049	Minority Report (film)
+356400000	268833	GoldenEye
+356296601	44122	American Beauty (film)
+355237933	142417	Apollo 13 (film)
+354825435	129368	Rain Man
+353816701	179825	Top Gun
+353624124	28648635	X-Men: First Class
+352927224	481649	Basic Instinct
+352114312	215873	Catch Me If You Can
+351692268	623452	Hannibal (film)
+351583407	1485962	The Mask (film)
+350448145	99123	Speed (1994 film)
+349822765	919477	Dinosaur (film)
+349464665	286544	Deep Impact (film)
+347512318	699208	National Treasure (film)
+347325802	652539	Rush Hour 2
+347234916	564947	I, Robot (film)
+346303939	28063569	The Lorax (film)
+346079773	399433	Pocahontas (1995 film)
+345141403	4867859	How the Grinch Stole Christmas (film)
+341631208	194664	The Flintstones (film)
+341433252	9395068	Wanted (2008 film)
+340487652	5138153	Enchanted (film)
+339500000	317647	Tomorrow Never Dies
+337700000	146236	Close Encounters of the Third Kind
+336529844	4730	Batman Forever
+336002996	30860835	Over the Hedge (film)
+335154643	5866831	Prince of Persia: The Sands of Time (film)
+335062320	29785	The Rock (film)
+333932083	8031432	The Curious Case of Benjamin Button (film)
+333107271	81503	Indiana Jones and the Temple of Doom
+331950002	213270	Back to the Future Part II
+330579719	1519783	Fantastic Four (film)
+330444045	695023	Meet the Parents
+329803958	76018	Who Framed Roger Rabbit
+329398046	24480838	Black Swan (film)
+328718434	3618333	The Perfect Storm (film)
+328203506	331586	"Crocodile" Dundee
+326551094	4597853	The Devil Wears Prada (film)
+325860290	29561419	Journey 2: The Mysterious Island
+325338851	402866	The Hunchback of Notre Dame (1996 film)
+325286646	12121822	A Christmas Carol (2009 film)
+321885765	20570407	Megamind
+321731527	695266	Lethal Weapon 3
+321669730	13713239	Robin Hood (2010 film)
+321306305	65834	Schindler's List
+320689294	179326	101 Dalmatians (1996 film)
+320432837	1194084	Chicken Little (2005 film)
+320389438	633052	Inglourious Basterds
+320145693	129295	Fatal Attraction
+319713881	16963505	The Last Airbender
+317375031	17101981	The Proposal (film)
+316360478	680398	Beverly Hills Cop
+315156409	238810	Air Force One (film)
+315005577	35874076	Taken 2
+314178011	142447	As Good as It Gets
+313542341	3569822	A Beautiful Mind (film)
+312016858	241603	Austin Powers: The Spy Who Shagged Me
+311312624	3723947	Ocean's Thirteen
+311087474	21810192	Salt (2010 film)
+310650585	23092448	Little Fockers
+309979994	2017211	Bolt (2008 film)
+309492681	997918	Ransom (1996 film)
+309457509	1908729	Runaway Bride (1999 film)
+309208309	22729553	The Blind Side (film)
+307077300	2162986	The Pursuit of Happyness
+306776732	201534	Chicago (2002 film)
+306431864	3701905	The Polar Express (film)
+305153249	23091532	Sex and the City 2
+304320254	55720	Mulan
+302836260	26586461	Battleship (film)
+302710615	657446	Liar Liar
+302469017	13734892	G.I. Joe: The Rise of Cobra
+301970083	30470648	Wrath of the Titans
+300854823	443972	Hook (film)
+300473716	104984	Rocky IV
+300257475	548259	Van Helsing (film)
+300218018	362719	Superman (film)
+300135367	2394008	Stuart Little (film)
+299965036	807842	Beverly Hills Cop II
+299288605	277148	My Best Friend's Wedding
+297138014	6002183	Horton Hears a Who! (film)
+296999813	846820	Look Who's Talking
+296655431	151461	Austin Powers in Goldmember
+296339527	19479460	X-Men (film)
+296221663	15332396	Resident Evil: Afterlife
+295120796	27702708	Real Steel
+294804195	13950959	Shutter Island (film)
+294456605	2511602	Dr. Dolittle (film)
+292810686	1022566	G-Force (film)
+291632124	205013	Ghostbusters
+291420351	594815	What Lies Beneath
+290701374	946164	The Green Mile (film)
+289847354	1349086	The Departed
+289400000	33276254	The Expendables 2
+289317794	88075	Shakespeare in Love
+289047763	3654271	Fantastic Four: Rise of the Silver Surfer
+288752301	54540	Coming to America
+288500217	870946	The Bourne Supremacy (film)
+288383523	29267698	Bridesmaids (2011 film)
+287928194	21132353	Casper (film)
+287594577	2863319	Bee Movie
+287553595	241471	American Pie 2
+286214286	4836239	The Sound of Music (film)
+285444603	695283	Lethal Weapon 4
+285176741	1385251	Wedding Crashers
+282778100	982480	John Carter (film)
+282400000	54175	Saturday Night Fever
+281929795	1774803	Bridget Jones's Diary (film)
+278346189	28413162	The Tourist (2010 film)
+278019771	277667	Scary Movie
+277448382	415156	XXX (film)
+275650703	1072075	Scooby-Doo (film)
+274703340	49800	Lara Croft: Tomb Raider
+274470394	20996974	The Expendables (2010 film)
+273961019	5215066	The Nutty Professor (1996 film)
+273552592	142435	Jerry Maguire
+273339556	1037237	Bad Boys II
+273144151	164754	Lilo & Stitch
+272742922	30006	The Silence of the Lambs (film)
+271430189	22933412	Grown Ups (film)
+270248367	287767	The Firm (1993 film)
+270000000	2501266	Prehysteria trilogy
+270000000	152328	Rocky III
+269958228	17016725	Gran Torino
+269784201	4223800	10,000 BC (film)
+268500000	2466773	The Godfather
+267447150	683122	Bambi
+267045765	6141751	The Princess and the Frog
+266822354	4728	Batman Returns
+266728738	414180	Something's Gotta Give (film)
+266614059	864183	Indecent Proposal
+266465037	5017604	American Gangster (film)
+264218220	637256	Waterworld
+264118201	232711	The Truman Show
+264105545	342692	Charlie's Angels (film)
+263920180	143809	The Fifth Element
+263427551	5476946	The Incredible Hulk (film)
+262797249	3700174	Jumanji
+262520724	1157124	Bridget Jones: The Edge of Reason (film)
+262062199	32340746	Furtivos
+261930436	24586901	Knight and Day
+261572744	5574594	Borat
+261299840	55325	Total Recall
+261183588	23872254	Michael Jackson's This Is It
+260718330	893808	Robots (film)
+259936677	3326078	Super 8 (film)
+259175788	256337	Charlie's Angels: Full Throttle
+258022233	2222699	Rush Hour 3
+256697520	739286	The Village (2004 film)
+256271286	1241914	Erin Brockovich (film)
+255325036	746845	Cliffhanger (film)
+254134910	142421	Babe (film)
+253625427	5733558	Wild Hogs
+252909177	9391085	High School Musical 3: Senior Year
+252712101	165289	Hercules (1997 film)
+251501840	29270563	The Bourne Legacy (film)
+251212670	5079650	Bean (film)
+250821495	158982	You've Got Mail
+250397798	355548	Brother Bear
+250288523	705756	The Mask of Zorro
+249488115	1571097	Eragon (film)
+249348933	62668	The Ring (2002 film)
+248639099	18841979	The Blair Witch Project
+248400000	5414895	Red Cliff (film)
+248118121	32252	Unbreakable (film)
+247275374	737803	Dumb and Dumber
+246942017	370064	Love Actually
+245700832	11223	Four Weddings and a Funeral
+245676146	648921	Face/Off
+245375374	34480764	Rango (2011 film)
+245360480	407591	Hulk (film)
+245143223	16044362	Bienvenue chez les Ch'tis
+244527583	213275	Back to the Future Part III
+244386864	489800	Rush Hour (1998 film)
+243240178	20691749	A Few Good Men
+243006126	21225053	Cloudy with a Chance of Meatballs (film)
+242875078	11014779	8 Mile (film)
+242295562	479457	Eraser (film)
+241998151	9617369	Journey to the Center of the Earth (2008 Hollywood film)
+240031094	433824	Die Hard 2
+239606210	1118809	"Crocodile" Dundee II
+238727149	25129766	Dark Shadows (film)
+238207122	4729	Batman & Robin (film)
+237681299	2864621	Click (2006 film)
+237382724	23594997	Gulliver's Travels (2010 film)
+237202298	883432	Gone in 60 Seconds (2000 film)
+236350661	407288	2 Fast 2 Furious
+235926552	142224	A.I. Artificial Intelligence
+235860116	129493	Dead Poets Society
+235483004	2580403	American Pie (film)
+234801895	501340	Big Daddy (1999 film)
+234736898	31631257	American Reunion
+233093859	14733483	The Day the Earth Stood Still (2008 film)
+232617430	28387289	The Girl with the Dragon Tattoo (2011 film)
+232343002	4457806	Born on the Fourth of July (film)
+231976425	101954	The English Patient (film)
+231605150	920468	Sister Act
+231449203	241482	American Wedding
+231411584	11862690	Juno (film)
+230884728	1210303	Constantine (film)
+230685453	8219325	Get Smart (film)
+229736344	1120730	Mr. Bean's Holiday
+229163264	142463	Life Is Beautiful
+228738393	2246413	Ghost Rider (film)
+227853986	695227	Lethal Weapon 2
+227817248	24195690	The Green Hornet (2011 film)
+227799884	226198	Sleepless in Seattle
+226904017	23941382	Immortals (2011 film)
+226830568	15593618	Taken (film)
+225990978	18953471	Yes Man (film)
+225933435	142456	Good Will Hunting
+225000000	45772	Rocky
+224920315	24319139	The Social Network
+224834564	284525	Chicken Run
+224012234	559847	Con Air
+223726633	31327794	Hotel Transylvania
+223664608	3239688	Interview with the Vampire: The Vampire Chronicles
+223387299	2008863	Flightplan
+222724172	1032620	Honey, I Shrunk the Kids
+222446882	600094	Fahrenheit 9/11
+222231186	3427182	Jumper (film)
+222105681	244610	Wild Wild West
+221303188	1189804	Presumed Innocent (film)
+220673217	880056	Scary Movie 3
+220443451	448735	Elf (film)
+219851172	14119255	Green Lantern (film)
+219417255	676909	The Terminal
+219375798	13393041	What Happens in Vegas
+219076518	4295195	Knocked Up
+219069702	23954729	It's Complicated (film)
+218947037	1267713	The Others (2001 film)
+218613188	465470	The Prince of Egypt
+217764291	826409	Collateral (film)
+217719678	31841233	Resident Evil: Retribution
+216763646	1287385	Million Dollar Baby
+216614388	1233576	Twins (1988 film)
+216485654	23813973	Valentine's Day (film)
+216197492	28174450	Bad Teacher
+215887717	1617626	Clear and Present Danger (film)
+215880014	179351	One Hundred and One Dalmatians
+215862692	337740	Bram Stoker's Dracula
+215663859	1695219	Vertical Limit
+215394738	618929	Ghostbusters II
+215294342	61184	The Patriot (2000 film)
+215283742	12621957	The Sorcerer's Apprentice (2010 film)
+214918407	26107567	Just Go with It
+214104620	6399993	Public Enemies (2009 film)
+214034224	963986	The Bourne Identity (2002 film)
+213954274	680361	Dirty Dancing
+213928762	54173	Pulp Fiction
+213741459	1141438	The Aviator (2004 film)
+213525736	5313	Crouching Tiger, Hidden Dragon
+212874442	16204877	Bedtime Stories (film)
+212404396	277160	Entrapment (film)
+212385533	537416	Ace Ventura: When Nature Calls
+212011111	370858	Master and Commander: The Far Side of the World
+211989043	2837025	End of Days (film)
+211780824	23829273	Due Date
+211652051	357186	Kingdom of Heaven (film)
+211608112	29454281	The Help (film)
+211409945	4560	Braveheart
+211343479	301574	The Little Mermaid (1989 film)
+211342221	8078282	Australia (2008 film)
+210816205	20777420	District 9
+210800000	8409497	Asterix & Obelix: Mission Cleopatra
+210300000	6446062	Moonraker (film)
+209600000	28386410	Horrible Bosses
+209196298	698242	Red Dragon (film)
+209073645	1228937	Lemony Snicket's A Series of Unfortunate Events
+208900376	352795	Jaws 2
+207725639	781629	S.W.A.T. (film)
+207515725	37599	Traffic (2000 film)
+207283925	248222	The Fast and the Furious (2001 film)
+206678440	468293	Philadelphia (film)
+206071502	55601	Sleepy Hollow (film)
+205843612	680006	The Jungle Book (1967 film)
+205703818	30695973	Paranormal Activity 3
+205633900	555629	The Cannonball Run
+205400000	39311	JFK (film)
+205298907	17901762	The Ugly Truth
+205135175	2793610	The Holiday
+204999686	2385928	The Break-Up
+204594016	24083094	Eat Pray Love
+203388341	54030	Vanilla Sky
+202614288	10149834	Ponyo
+202548575	4265347	Hairspray (2007 film)
+202482728	29650834	Safe House (2012 film)
+202292902	1231877	Patch Adams (film)
+201965915	2323962	Teenage Mutant Ninja Turtles (film)
+201957688	997939	Kindergarten Cop
+201802891	9513043	You Don't Mess with the Zohan
+201585328	33509716	21 Jump Street (film)
+201584141	19994247	Yogi Bear (film)
+200804534	348449	Garfield: The Movie
+200687492	957792	Cats & Dogs
+200512643	3557540	The Hunt for Red October (film)
+200276784	10552268	Valkyrie (film)
+200182160	149433	Rocky II
+199043242	633883	Two Weeks Notice
+199006387	25854460	RED (2010 film)
+198685114	159171	City of Angels (film)
+198636868	1519082	The Pacifier
+197309027	8484755	Open Season (film)
+197011982	194693	Spy Kids 3-D: Game Over
+196567262	28327	Stargate (film)
+196482882	477099	50 First Dates
+196400000	450141	Panic Room
+196393745	2572851	Beowulf (2007 film)
+196114570	29462138	The Vow (2012 film)
+195745823	23631832	Anger Management (film)
+195300000	6446044	For Your Eyes Only (film)
+195268056	5123756	The Pelican Brief (film)
+193967670	27609842	Gnomeo & Juliet
+193921372	4646185	The Sum of All Fears (film)
+193772504	188902	Gangs of New York
+193355800	24366494	Paranormal Activity
+193000000	73875	The Godfather Part II
+192610372	1784731	Wallace & Gromit: The Curse of the Were-Rabbit
+191502246	26742350	The Addams Family (film)
+191200000	566713	The Living Daylights
+190320568	3326231	The Longest Yard (2005 film)
+190213455	1332901	Hollow Man
+190212113	456588	Cheaper by the Dozen (2003 film)
+190000000	23941708	2001: A Space Odyssey (film)
+189859560	733927	Outbreak (film)
+189833357	144415	The Santa Clause
+189176423	1078863	The X-Files (film)
+189015611	1160412	Rambo III
+188072649	11942501	Tropic Thunder
+187858642	17544255	Knowing (film)
+187694327	8641297	Ice Station Zebra
+187500000	541642	Octopussy
+187436818	43566	Heat (1995 film)
+187361754	30129615	Mr. Popper's Penguins (film)
+187281115	1094719	The Grudge
+186883563	698969	The Horse Whisperer (film)
+186438883	1641890	Walk the Line
+186167139	15886402	The Final Destination
+186072214	5752544	I Now Pronounce You Chuck and Larry
+186053725	367085	Atlantis: The Lost Empire
+185991646	340276	The Waterboy
+185770160	12767159	Hugo (film)
+185400000	6446036	The Spy Who Loved Me (film)
+185260553	239589	The Birdcage
+185258983	5016250	Watchmen (film)
+183953723	27888241	Hop (film)
+183611771	1682418	102 Dalmatians
+183293131	16368206	Paul Blart: Mall Cop
+183097323	77744	Wayne's World (film)
+183031272	380517	Maverick (film)
+183000000	1244836	Jingle All the Way
+182968902	5169996	The Man in the Iron Mask (1998 film)
+182436254	390436	The Haunted Mansion (film)
+182291969	171026	Cape Fear (1991 film)
+182057016	226202	While You Were Sleeping
+182016617	5533243	The Bridges of Madison County (film)
+181674817	2688309	Poseidon (film)
+181490000	2018921	The First Wives Club
+181466833	730734	Scooby-Doo 2: Monsters Unleashed
+181096164	1048388	Hot Shots!
+181001478	342741	Road to Perdition
+180949045	301314	Kill Bill Volume 1
+180622424	231486	Sweet Home Alabama (film)
+180557550	3244005	Déjà Vu (2006 film)
+179519401	1476567	Dangerous Minds
+179265204	4138142	The League of Extraordinary Gentlemen (film)
+179213434	142481	Moulin Rouge!
+179179718	1129847	Daredevil (film)
+179033791	352455	City Slickers
+178966569	14090644	Eagle Eye
+178846899	13229264	He's Just Not That into You (film)
+178454768	31905391	Total Recall (2012 film)
+178120010	2330988	Flushed Away
+178062759	1623960	Brokeback Mountain
+178051587	3499096	Patriot Games (film)
+177977226	1344253	Flubber (film)
+177841558	818002	Double Jeopardy (film)
+177547352	30553238	The Dictator (2012 film)
+177512032	27923824	Paranormal Activity 2
+177394432	318542	Hero (2002 film)
+177311151	956598	The Haunting (1999 film)
+177243185	26857099	The Descendants
+177238796	16578764	The A-Team (film)
+177200000	76394	Tootsie
+177085826	570321	How to Lose a Guy in 10 Days
+177059441	27754718	War Horse (film)
+176997168	676054	In the Line of Fire
+176104344	735291	Dr. Dolittle 2
+176070171	2976107	The Italian Job (2003 film)
+175372502	7404698	The Bucket List
+175000000	25491	The Rocky Horror Picture Show
+174999005	924767	Sleeping with the Enemy
+174822325	26252728	Cowboys & Aliens
+174463257	3448890	George of the Jungle (film)
+173959438	1037250	Big Momma's House
+173930596	29446866	In Time
+173921954	44302	Amélie
+173418781	2576917	Evan Almighty
+173046663	113549	Scream (film)
+173013509	461364	Cold Mountain (film)
+172989651	106328	Black Hawk Down (film)
+172855065	454718	The Santa Clause 2
+172544654	901421	Alien vs. Predator (film)
+172363301	600320	Scream 2
+171963390	547378	Along Came Polly
+171844840	20332464	Couples Retreat
+171757863	206845	Antz
+171627166	3920193	No Country for Old Men (film)
+171504781	607735	Cocktail (1988 film)
+171407179	4453691	Blood Diamond (film)
+171269535	594105	Mr. Deeds
+171120329	422269	Contact (film)
+170764026	12064359	Cloverfield
+170432927	2549266	The Other Guys
+170362582	2337370	The Specialist
+170321410	25477324	Jackass 3D
+170268750	547448	Starsky & Hutch (film)
+170128460	1071219	Shall We Dance? (2004 film)
+169956806	750694	Stuart Little 2
+169871719	6254878	Superbad (film)
+169852759	24077310	Zookeeper (film)
+169400000	1567200	The Saint (film)
+169333034	2017208	Meet the Robinsons
+169327687	338869	The Emperor's New Groove
+168839459	30575	12 Monkeys
+168335153	564986	The Princess Diaries (film)
+168168201	15762321	Seven Pounds
+167805466	23883858	Unstoppable (2010 film)
+167722310	709419	DodgeBall: A True Underdog Story
+167298192	1138675	Alexander (film)
+166842739	23810915	Up in the Air (2009 film)
+166339890	1917459	Nutty Professor II: The Klumps
+165615285	725103	Sleepers (film)
+165048228	1086550	Deep Blue Sea
+164839294	365039	Six Days Seven Nights
+164800000	3636498	Saw III
+164729679	3090812	Bringing Down the House (film)
+164508066	1046769	Speed 2: Cruise Control
+164433867	240907	Daddy Day Care
+163794509	2574924	Miami Vice (film)
+163733697	14706880	Four Christmases
+163644662	2460704	Pokémon: The First Movie
+163403799	9939796	The Happening (2008 film)
+162970275	3837375	World Trade Center (film)
+162966177	2886036	Talladega Nights: The Ballad of Ricky Bobby
+162949164	1068520	The Island (2005 film)
+162944923	1643419	The Interpreter
+162839667	3117439	The Spiderwick Chronicles (film)
+162835167	33641119	Mirror Mirror (film)
+162738726	725984	Dick Tracy (1990 film)
+162242962	5541530	Memoirs of a Geisha (film)
+162091208	9979	Eyes Wide Shut
+161834276	600351	Scream 3
+161800000	6446061	Live and Let Die (film)
+161626121	1880706	Payback (1999 film)
+161451538	30871261	The Ring Two
+161295658	213246	Alien Resurrection
+161128228	8344046	Burn After Reading
+161001698	19715507	Swearing Allegiance
+160846332	2236324	Freaky Friday (2003 film)
+160583018	255858	Johnny English
+160401979	3251133	Garfield: A Tail of Two Kitties
+160388063	5292154	Hellboy II: The Golden Army
+160259319	13439139	27 Dresses
+160188546	30275589	The War of the Roses (film)
+160112671	30009835	Underworld: Awakening
+160078586	28190354	Johnny English Reborn
+160000000	490101	Never Say Never Again
+160000000	172534	Cobra (1986 film)
+159773545	213251	Alien 3
+159710793	1632580	Stepmom (film)
+159616327	62440	The Sting
+159330280	1321819	The Jackal (1997 film)
+159313561	7261333	Norbit
+159289358	22845644	Step Up 3D
+159212469	914988	Daylight (film)
+159157447	133574	Unforgiven
+159055768	548669	Demolition Man (film)
+159000000	32066330	Overheard 2
+158905241	5920611	Magic Mike
+158851357	2581392	The Pink Panther (2006 film)
+158753820	1336308	Sin City (film)
+158468292	2913859	The Fast and the Furious: Tokyo Drift
+158431237	29370106	The Muppets (film)
+157927340	10433895	21 (2008 film)
+157920733	651322	Days of Thunder
+157887643	28722503	Final Destination 5
+157387195	1317604	Crimson Tide (film)
+157091718	20450767	The Book of Eli
+156835339	10610533	P.S. I Love You (film)
+156822020	460052	Mystic River (film)
+156563139	67417	Under Siege
+156505388	443011	Lara Croft Tomb Raider: The Cradle of Life
+156491279	29165410	This Means War (film)
+156239800	129331	Moonstruck
+156200000	449547	Licence to Kill
+155721132	2887437	Rocky Balboa (film)
+155545279	12758034	Hannah Montana: The Movie
+155010032	479757	Blade II
+154906693	1755731	Maid in Manhattan
+154856263	1428132	Cool Runnings
+154852975	3825963	Dreamgirls (film)
+154749918	1881893	Monster-in-Law
+154270000	308856	The Phantom of the Opera (2004 film)
+154026136	24228929	The Town (2010 film)
+153698625	568034	Free Willy
+153083102	382387	Gremlins
+152944660	673274	Devil's Advocate (film)
+152900000	29139393	Tower Heist
+152699946	1765026	Chocolat (2000 film)
+152523164	5549065	Sweeney Todd: The Demon Barber of Fleet Street (2007 film)
+152400000	583932	A View to a Kill
+152368585	592766	Backdraft (film)
+152269033	22967108	Date Night
+152266007	3600824	A Time to Kill (film)
+152159461	525270	Kill Bill Volume 2
+152022101	961437	Congo (film)
+151668774	168597	Big
+151493655	2023704	The Bone Collector
+151161491	11763661	Vantage Point (film)
+151119219	27070440	Midnight in Paris
+150823000	1397377	Planes, Trains and Automobiles
+150816700	11222156	Step Up 2: The Streets
+150406466	25230514	Happy Feet Two
+150270147	524813	Broken Arrow (1996 film)
+150166126	16166559	The Taking of Pelham 123 (2009 film)
+150000000	7715229	The Game Plan (film)
+149705852	2372994	The General's Daughter (film)
+149673788	28014683	Jack and Jill (film)
+149542245	27694404	Friends with Benefits (film)
+149270999	1145800	Me, Myself & Irene
+149044513	2811955	Surf's Up (film)
+149022650	105972	Death Becomes Her
+148336445	444767	Seabiscuit (film)
+147934180	11762841	Spy Kids
+147780440	29171676	No Strings Attached (film)
+147717833	2271177	Resident Evil: Extinction
+147700000	1640736	Saw II
+147554999	202652	Romeo + Juliet
+147419472	29471340	Arthur Christmas
+147332697	25920477	Source Code
+147080413	963435	Swordfish (film)
+146900000	1343342	Ben-Hur (1959 film)
+146027888	27097	Star Trek: First Contact
+145982798	27588976	I Am Number Four (film)
+145896422	8548898	Music and Lyrics
+145824897	11779733	Beverly Hills Chihuahua
+145793296	129444	Driving Miss Daisy
+145708642	5264560	Blades of Glory
+145570827	25519059	Arrietty
+144877632	2696891	Charlotte's Web (2006 film)
+144693129	406339	The Crow (film)
+144216468	2571604	The Exorcism of Emily Rose
+144133816	1549008	Herbie: Fully Loaded
+143049560	289591	Spy Game
+142940100	716738	Meet Joe Black
+142851197	28880684	Crazy, Stupid, Love.
+142634358	7255312	The Wolfman (2010 film)
+142400065	1830431	The Legend of Zorro
+142044638	29679260	New Year's Eve (film)
+142000000	3185575	The Color Purple (film)
+141774679	444267	Legally Blonde
+141600000	75261	National Lampoon's Animal House
+141591324	793025	Gothika
+141407024	673613	Bad Boys (1995 film)
+141337989	883489	Mona Lisa Smile
+141220678	532618	Scary Movie 2
+141200000	6152265	Thunderball (film)
+141181969	673469	Flatliners
+141069860	366111	Shallow Hal
+141047179	2651130	Evita (film)
+140894675	1507610	The Rugrats Movie
+140807547	673903	The Devil's Own
+140767956	97646	Die Hard
+140175006	2692284	Monster House (film)
+140161792	970386	The SpongeBob SquarePants Movie
+140081992	977671	Sommersby
+140073390	20223641	Legend of the Guardians: The Owls of Ga'Hoole
+140000000	68124	American Graffiti
+139804348	284752	Anastasia (1997 film)
+139700000	101910	The Towering Inferno
+139352633	7694669	Saw IV
+139000000	277006	Star Trek: The Motion Picture
+138942405	31795894	Step Up Revolution
+138805831	17997162	Brüno
+138530565	113460	Platoon (film)
+138510230	699336	Nine Months
+138259062	2759477	Big Momma's House 2
+137783840	705925	Far and Away
+137587063	7865977	Bridge to Terabithia (2007 film)
+137298489	675832	Last Action Hero
+136982834	144161	Conspiracy Theory (film)
+136766062	129644	The Godfather Part III
+136706683	397574	Remember the Titans
+136513833	27383563	Looper (film)
+136397186	11577392	Love Story (1970 film)
+136333522	23535297	The Bounty Hunter (2010 film)
+136267476	14545761	17 Again (film)
+136159423	565318	Lost in Space (film)
+136123083	26717073	Unknown (2011 film)
+136100000	24341999	Saw 3D
+135703599	725817	The Jungle Book 2
+135553760	3479886	Stardust (2007 film)
+135458097	29007186	Contagion (film)
+135330182	3060756	Babel (film)
+135130999	3555900	A Perfect World
+135039943	7031132	Perfume: The Story of a Murderer (film)
+135015330	1922815	Cheaper by the Dozen 2
+134993774	142426	Sense and Sensibility (film)
+134748021	22637915	Wall Street: Money Never Sleeps
+134403112	4180278	Inspector Gadget (film)
+134361879	32894499	The Best Exotic Marigold Hotel
+134212055	3529964	Black Rain (American film)
+133960541	4803480	The Cat in the Hat (film)
+133949270	1490639	Pokémon: The Movie 2000
+133752825	1416397	Hot Shots! Part Deux
+133432856	31701975	The Artist (film)
+133000000	88609	Star Trek IV: The Voyage Home
+132856738	20688153	Asterix at the Olympic Games (film)
+132563930	29007308	Ghost Rider: Spirit of Vengeance
+132511035	1891886	V for Vendetta (film)
+132440069	543433	A League of Their Own
+132274484	28397585	The Three Musketeers (2011 film)
+131998242	4639222	1408 (film)
+131706809	1569634	Save the Last Dance
+131457682	9796711	Seven Years in Tibet (1997 film)
+131426169	1599541	Bewitched (2005 film)
+131282949	805097	School of Rock
+131183530	471544	Blade (film)
+131060248	213472	Aliens (film)
+131052444	1961084	Boomerang (1992 film)
+131002597	686022	Wolf (film)
+130549455	4205606	About a Boy
+130431368	3032361	You, Me and Dupree
+130358911	2311219	Munich (film)
+130293714	525305	Man on Fire (2004 film)
+129795554	242539	An Officer and a Gentleman
+129538392	17055534	Julie & Julia
+129394835	797798	Resident Evil: Apocalypse
+129266061	4902239	Atonement (film)
+129190869	23652051	The Fighter
+129042871	10565718	Mean Girls
+128905366	1129583	Blade: Trinity
+128884494	5439220	Aliens vs. Predator: Requiem
+128884132	1722156	Space Cowboys
+128798265	536009	The Talented Mr. Ripley (film)
+128499205	89793	Out of Africa (film)
+128406887	3978163	Failure to Launch
+128107642	7984798	Step Brothers (film)
+128038368	189088	A Perfect Murder
+127956187	1562284	Forever Young (1992 film)
+127906624	6703617	The Forbidden Kingdom
+127766650	11530657	The Heartbreak Kid (2007 film)
+127730736	28250083	The Woman in Black (2012 film)
+127666415	32260	U-571 (film)
+127600435	1179416	First Knight
+127392693	2305746	March of the Penguins
+127234389	24630747	Predators (film)
+126737428	844078	Smokey and the Bandit
+126690726	21488473	Law Abiding Citizen
+126297830	1118829	Parenthood (film)
+126266180	33498516	Chronicle (film)
+126216940	142457	L.A. Confidential (film)
+125586134	255049	I Know What You Did Last Summer
+125212904	872441	First Blood
+125000000	31272988	Barbie: A Fairy Secret
+124914842	447672	Legally Blonde 2: Red, White & Blonde
+124900000	6322029	Goldfinger (film)
+124745083	101813	The Family Man
+124731534	993226	Ray (film)
+124596398	3287436	Coraline (film)
+124305181	2367161	The Thomas Crown Affair (1999 film)
+123922370	168593	Good Morning, Vietnam
+123729176	3759215	The Time Machine (2002 film)
+123306987	454655	The Wedding Singer
+123118386	1528430	Beavis and Butt-head Do America
+122919055	431014	Big Fish
+122823468	545187	Volcano (1997 film)
+122650962	1190594	Hide and Seek (2005 film)
+122563539	706047	Spirit: Stallion of the Cimarron
+122489822	3079162	Nanny McPhee
+122444772	18448029	Surrogates (film)
+122417389	2245886	MouseHunt (film)
+122233971	21939688	Invictus (film)
+122195920	983044	Mortal Kombat (film)
+122000000	1524536	Sahara (2005 film)
+121975011	740744	Peter Pan (2003 film)
+121969216	67422	Executive Decision
+121706019	7051491	Poltergeist (film)
+121654337	2308701	Apocalypto
+121637375	31052221	The Pirates! In an Adventure with Scientists!
+121214377	203841	Starship Troopers (film)
+121147947	2312056	Pride & Prejudice (2005 film)
+120700000	76390	To Fly!
+120455994	2698372	Eight Below
+120217409	1597877	Intolerable Cruelty
+120207127	235418	Lethal Weapon
+120081841	29373289	We Bought a Zoo
+120072577	1897341	The Pianist (2002 film)
+119946358	153435	Rocky V
+119754278	1164535	Road Trip (film)
+119723856	369682	Lost in Translation (film)
+119723358	33577424	Spy Kids 2: The Island of Lost Dreams
+119718203	3143504	Michael (1996 film)
+119500000	3837	Blazing Saddles
+119498909	2425302	The Omen (2006 film)
+119418501	7223973	Fried Green Tomatoes (film)
+119285432	15119799	On Golden Pond (1981 film)
+119208989	1138104	Beverly Hills Cop III
+119193847	5429993	Step Up (film)
+119137784	1126385	Unfaithful (2002 film)
+119000410	3615041	Charlie Wilson's War
+118880016	2115510	Message in a Bottle (film)
+118751446	1934366	Space Station 3D
+118676606	1045457	Finding Neverland
+118243066	642694	Beethoven's 2nd
+118071125	27079	Star Trek: Generations
+117760134	5456819	Disturbia (film)
+117758500	708479	Blue Streak (film)
+117719158	1945359	Final Destination 3
+117615211	13087370	The Client (1994 film)
+117592831	1045034	The Forgotten (2004 film)
+117487473	65669	A Knight's Tale
+117270765	3447732	Dennis the Menace (film)
+117195061	1430396	Corpse Bride
+117094902	25913752	Water for Elephants (film)
+117000198	17845260	Hotel for Dogs (film)
+116672912	2174599	The Siege
+116300000	11059900	Sliver (film)
+116112375	695780	Casino (film)
+116000000	157481	Diamonds Are Forever (film)
+115664037	23286957	A Nightmare on Elm Street (2010 film)
+115603229	17917662	The Notebook (film)
+115505027	1162528	Closer (film)
+115267375	1011167	Dragonheart
+115229890	4558294	The Blues Brothers (film)
+115103979	1107088	The Karate Kid, Part II
+115101622	8549241	Get Shorty (film)
+115097286	10061978	Body of Lies (film)
+115049554	17323415	Bride Wars
+115035090	2093928	Snow Dogs
+114977104	20898157	Dear John (2010 film)
+114943631	30548208	The Iron Lady (film)
+114900000	714334	Freddy vs. Jason
+114660784	1011468	We Were Soldiers
+113996937	473253	Anna and the King
+113916474	2361396	Coyote Ugly (film)
+113864059	14384820	Saw V
+113714830	4760936	Insomnia (2002 film)
+113493481	2408918	Judge Dredd (film)
+113374103	689763	Species (film)
+113309743	18943833	Striptease (film)
+113244290	18850952	Rambo (2008 film)
+113086475	871056	White Chicks
+113020255	10825132	Changeling (film)
+112880294	219712	Final Destination
+112587658	157239	Star Trek: Insurrection
+112483764	19554171	Cats & Dogs: The Revenge of Kitty Galore
+112462508	22535918	Tooth Fairy (film)
+112215759	1367581	A Civil Action (film)
+112006296	1246394	Frankenstein (1994 film)
+111721910	97758	Doctor Zhivago (film)
+111340801	1473196	Underworld: Evolution
+111289673	284957	Porky's
+111231041	14291637	Fool's Gold (2008 film)
+111069515	694787	The Dukes of Hazzard (film)
+110996879	980977	The Secret of My Success (1987 film)
+110879513	2541839	Sea of Love (film)
+110768122	3257958	The Santa Clause 3: The Escape Clause
+110627965	306195	The Net (1995 film)
+110463140	710094	The Peacemaker (1997 film)
+110317580	1346908	Disney's The Kid
+110206216	27891311	Moneyball (film)
+110013167	3028097	Hoodwinked!
+110000000	133550	The Prince of Tides
+109862682	1595142	Return to Never Land
+109676311	2809621	The Prestige (film)
+109578115	648781	Treasure Planet
+109502303	1144172	Sideways
+109449237	2021400	The 40-Year-Old Virgin
+109436965	30928961	Abraham Lincoln: Vampire Hunter (film)
+109423648	3911312	The Game (1997 film)
+108981275	21913863	One Flew Over the Cuckoo's Nest (film)
+108979549	15968423	Transporter 3
+108942691	13771001	Earth (2007 film)
+108901967	14149346	The Reader (2008 film)
+108846072	3326435	The Hours (film)
+108609310	28236076	Sanctum (film)
+108539911	1424754	Cinderella Man
+108431355	1221565	Junior (film)
+108423489	113427	Terms of Endearment
+108333222	17112291	Confessions of a Shopaholic (film)
+108185706	1059280	Superman II
+108144200	442333	Mask (film)
+108103450	525292	Hidalgo (film)
+108047131	1789996	The Amityville Horror (2005 film)
+108000000	2810158	Barnyard (film)
+107879496	258732	The American President
+107752036	192461	Three Kings (1999 film)
+107217396	336808	Ace Ventura: Pet Detective
+107212751	670226	The Chronicles of Riddick
+107198790	1840870	Rising Sun (film)
+107196498	973155	Shaft (2000 film)
+107071655	3231682	The Texas Chainsaw Massacre (2003 film)
