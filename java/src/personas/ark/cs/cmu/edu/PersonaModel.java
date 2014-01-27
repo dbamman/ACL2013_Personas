@@ -731,10 +731,10 @@ public class PersonaModel {
 
 					System.out.println(PrintUtil.printMeanTop(
 							gibbs.phis, gibbs.reverseVocab,
-							"verbs ratiorank", numWordsToPrint));
+							"topic ratiorank", numWordsToPrint));
 					System.out.println(PrintUtil.printSimpleTop(
 							gibbs.phis, gibbs.reverseVocab,
-							"verbs freqrank2", numWordsToPrint));
+							"topic freqrank", numWordsToPrint));
 
 				}
 
